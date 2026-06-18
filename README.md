@@ -19,7 +19,7 @@ This project is a foundational SwiftUI demo that covers the essential concepts n
 
 [![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/qJa2A1g1h9w)
 
-> This project was built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@NoahDoesCoding97).
+> This project was built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@noahdoescoding).
 
 ---
 
